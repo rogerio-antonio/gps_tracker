@@ -2,6 +2,7 @@ flet>=0.21.1
 flet-geolocator
 kafka-python>=2.0.2
 streamlit
+streamlit-folium
 folium>=0.15.1
 pandas
 sqlite3  # builtin
