@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp files
+*.html
+temp/
+
+# Arquivos gerados
+mapa.html
+*.log
+*.sqlite3
+.coverage
+htmlcov/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.temp 

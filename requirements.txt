@@ -1,0 +1,10 @@
+flet>=0.21.1
+flet-geolocator
+kafka-python>=2.0.2
+streamlit
+folium>=0.15.1
+pandas
+sqlite3  # builtin
+python-dotenv>=1.0.1
+geopy>=2.4.1
+requests>=2.31.0
